@@ -1,0 +1,5 @@
+int8 tag_id
+int8 switch_no
+---
+bool status
+string message
