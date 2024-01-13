@@ -1,0 +1,19 @@
+ar_tags:
+- - 1.0
+  - 9.0
+  - 0.0
+  - 180.0
+- - 3.0
+  - 2.5
+  - -7.5
+  - 45.0
+- - 4.0        # id
+  - 1.0        # x_world
+  - 1.5        # y_world
+  - -90.0      # theta_world
+
+# self.ids_to_find = {"ids"  :"x_bw,  y_bw,   t_bw",
+#                     "1.0"  :[1.4,   0.0,   180.0],   #  -  tested: directly opposite agv  
+#                     "2.0"  :[9.0,  -5.0,   135.0],   #  \  tested:
+#                     "3.0"  :[10.5, -4.6,   180.0],   #  /  tested: slanted at 45 degrees in agv view direction
+#                     "4.0"  :[1.0,   1.5,   -90.0]}   #  |  tested: 90 degrees to agv view      
